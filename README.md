@@ -8,7 +8,7 @@
 
 ![CSS Flexbox Garage Preview](./src/assets/images/preview.png)
 
-A clean HTML and CSS exercise for the CSS Flexbox garage project, built using Vite and Stylus. The project is structured to separate source code from configuration and compiled production assets.
+A clean front-end exercise for a linear car garage project, built using CSS Flexbox, Vite, and Stylus. The project is structured to separate source code from configuration and compiled production assets.
 
 ## Project Structure
 
