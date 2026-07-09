@@ -1,4 +1,4 @@
-# Exercise 1: "The Linear Garage" (CSS Flexbox)
+# Exercise 1: "The Linear Garage" (Flexbox)
 
 **Program:** Lexicon / LTU (VT-2026)  
 **Course:** HTML / CSS  
