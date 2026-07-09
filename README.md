@@ -2,7 +2,7 @@
 
 **Program:** Lexicon / LTU (VT-2026)  
 **Course:** HTML / CSS  
-**Tags:** `html` `css` `flexbox` `css-flexbox` `vite` `stylus`
+**Tags:** `html` `css` `flexbox` `vite` `stylus`
 
 ---
 
